@@ -1,0 +1,12 @@
+{
+    "name": "veronique/twig",
+    "authors": [
+        {
+            "name": "Veronique",
+            "email": "veroniqueauzias@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
